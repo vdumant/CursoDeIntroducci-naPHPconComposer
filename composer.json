@@ -1,0 +1,16 @@
+{
+    "name": "vduman/text",
+    "autoload": {
+        "psr-4": {
+            "Text\\": "src/"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    },
+    "config": {
+        "platform": {
+            "php": "7.4.25"
+        }
+    }
+}

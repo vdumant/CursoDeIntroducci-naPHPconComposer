@@ -1,0 +1,4 @@
+vendor/*
+proyecto2/vendor/*
+proyecto2/composer.lock
+proyecto2/.phpunit.result.cache
